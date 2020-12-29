@@ -1,5 +1,6 @@
 # Data Analysis Projects
-A collection of a project involving data processing and analysis involving statistical inference and regression models. 
+
+Two Projects: Regression Analysis of House Sales in King County and Statistical Inference of Salary Increase By Major. 
 
 ## Project 1:  Regression Analysis of House Sales in King County
 
